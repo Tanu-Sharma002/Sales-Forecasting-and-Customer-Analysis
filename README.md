@@ -58,17 +58,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 Sales-Forecasting-and-Customer-Analysis/
 │
-├── data_generation.py         # Script to generate synthetic sales data
-├── eda_analysis.py            # EDA and visualizations
-├── customer_segmentation.py   # RFM analysis for customer segmentation
-├── sales_forecasting.py       # Sales forecasting models
-├── insights.py                # Extract and print business insights
-├── assets/                    # Contains dashboard and graphs
-│   ├── sales_dashboard.png
-│   ├── sales_trend.png
-│   ├── top_products.png
-│   ├── rfm_segments.png
-│   └── forecast_plot.png
+├── Data-Analytics-Project-sales-forcasting-and Customer Analysis      
+├──Sales Dataset.csv
+├── Daa.dashboard_final.pbix
+├──Data_analysis.ipynb
 ├── README.md
 ```
 
@@ -128,15 +121,6 @@ Predicting future sales using regression/time series models.
 
 Run the scripts in the following order for full analysis:
 
-```bash
-python data_generation.py
-python eda_analysis.py
-python customer_segmentation.py
-python sales_forecasting.py
-python insights.py
-```
-
----
 
 ## 📌 License
 
