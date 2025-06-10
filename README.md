@@ -92,12 +92,13 @@ Sales Dashboard ![image](https://github.com/user-attachments/assets/7a329308-a4f
 
 Visualizing how revenue fluctuates across different years.
 
-[Monthly Trends]![image](https://github.com/user-attachments/assets/0642e37c-1c62-4ae3-99b6-a4df0082fede)
+![image](https://github.com/user-attachments/assets/0642e37c-1c62-4ae3-99b6-a4df0082fede)
 
 
 #### 🛍️ Top Products by Revenue
 
-[Top Products]![image](https://github.com/user-attachments/assets/948665f0-ce11-4551-989f-b014d0085d6e)
+![countprod](https://github.com/user-attachments/assets/dfdb951b-d97c-4842-a3d2-f5625c39644c)
+
 
 
 ---
@@ -106,16 +107,19 @@ Visualizing how revenue fluctuates across different years.
 
 Segmenting customers based on Recency, Frequency, and Monetary value.
 
-[RFM Segments]![image](https://github.com/user-attachments/assets/4c733de7-acf2-48d1-8c44-d9a0734ddb8e)
+![count](https://github.com/user-attachments/assets/afcd1952-509b-4da8-88ca-e8ef69f664d3)
+
+
 
 
 ---
 
-### 🔮 Sales Forecasting Output
+### 🔮 Seasonal Sales Forecasting Output
 
 Predicting future sales using regression/time series models.
 
-[Forecast Plot]![image](https://github.com/user-attachments/assets/09865811-2be4-4541-a4a4-4047f1c4b49a)
+![seasonal](https://github.com/user-attachments/assets/89894f60-4286-496d-ba0c-01a5d411dbf8)
+
 
 
 ---
